@@ -10,6 +10,7 @@ public class Test : MonoBehaviour
     public TMP_InputField DisBoxComp;
     public AudioSource AudioKoSource;
     public AudioClip AudioKoclip;
+   
 
     public void buttonclick()
     {
